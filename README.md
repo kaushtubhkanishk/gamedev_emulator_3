@@ -1,1 +1,10 @@
-# gamedev_emulator_3
+# Nes  Emulator
+
+## Build
+
+```bash
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
