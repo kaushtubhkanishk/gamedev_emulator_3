@@ -3,3 +3,5 @@ How to run:
 2: Run command in terminal: g++ g502.cpp -o test
 3: Then run : ./test
 
+Output:
+![](images/output.png)
